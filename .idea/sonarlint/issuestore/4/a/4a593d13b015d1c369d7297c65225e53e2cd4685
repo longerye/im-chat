@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÕªÞ¼
+Y
+java:S2259-"CA "NullPointerException" could be thrown; "field" is nullable here.(˜ÂÓ˜
+B
+java:S3011-",This accessibility update should be removed.(˜ÂÓ˜

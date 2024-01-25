@@ -1,0 +1,7 @@
+com/chat/listener/MessageListenerMulticaster.class
+com/chat/listener/MessageListener.class
+com/chat/config/FastJson2JsonRedisSerializer.class
+com/chat/sender/IMRedisSender.class
+com/chat/config/RedisConfig.class
+com/chat/annotation/IMListener.class
+com/chat/sender/IMRedisSenderImpl.class
