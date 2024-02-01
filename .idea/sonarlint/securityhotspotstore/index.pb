@@ -185,8 +185,6 @@ p
 @im-web/src/main/java/com/chat/service/impl/GroupServiceImpl.java,8/8/88ef0c7c33bf87dc28bbb2a5094497208d06a74e
 q
 Aim-web/src/main/java/com/chat/service/impl/WebrtcServiceImpl.java,2/f/2f838c5b36bfb741082c30826a0091a090ce1f57
-f
-6im-web/src/main/java/com/chat/vo/PrivateMessageVO.java,8/c/8cfe7fc0eea1ba5bfaa7eb40bf8dbd13c7055381
 d
 4im-web/src/main/java/com/chat/vo/GroupMessageVO.java,0/5/05351ead092813d25e46d7ab9b0467ee16b73430
 a
