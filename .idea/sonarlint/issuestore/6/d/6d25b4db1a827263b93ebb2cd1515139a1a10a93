@@ -1,9 +1,0 @@
-
-r
-java:S3077$"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(≤Œ™ô˙ˇˇˇˇ
-W
-java:S2209"5Change this instance-reference to a static reference.(£âŸû˝ˇˇˇˇ8¨œ∂™”1
-T
-java:S1155f">Use isEmpty() to check whether the collection is empty or not.(»èÚ≠
-t
-java:S2142k"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰†πÄ

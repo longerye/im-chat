@@ -1,9 +1,0 @@
-
-j
-java:S1104"TMake serverId a static final constant or non-public and provide accessors if needed.(•­ã
-D
-java:S1444".Make this "public static serverId" field final(•­ã
-i
-java:S2259+"GA "NullPointerException" could be thrown; "increment" is nullable here.(ô‡ãØıÿÿÿÿ8öŠÑÓ1
-Q
-java:S2696+"6Make the enclosing method "static" or remove this set.(ô‡ãØıÿÿÿÿ
