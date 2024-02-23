@@ -3,6 +3,7 @@ package com.chat.controller;
 
 import com.chat.result.Result;
 import com.chat.result.ResultUtils;
+import com.chat.service.IFriendService;
 import com.chat.service.thirdparty.FileService;
 import com.chat.vo.UploadImageVO;
 import io.swagger.annotations.Api;
@@ -12,6 +13,9 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
+
+import java.lang.reflect.Proxy;
+
 
 @Slf4j
 @RestController
